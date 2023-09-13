@@ -1,0 +1,1 @@
+a simple web-app + a test scenario with cypress
